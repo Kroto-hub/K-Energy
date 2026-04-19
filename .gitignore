@@ -1,0 +1,16 @@
+node_modules/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+EnergyPlus/
+data/k_energy.db
+.vscode/
+.idea/
+*.log
+.env
+.DS_Store

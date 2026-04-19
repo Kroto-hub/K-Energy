@@ -1,0 +1,5 @@
+[project]
+name = "k-energy-backend"
+version = "0.1.0"
+description = "K-Energy 能源计算软件后端"
+requires-python = ">=3.12"
